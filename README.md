@@ -13,6 +13,6 @@ of subject 15 (Figure 2). The implementation of the 2DPCA algorithm and the foll
 and visualization work were all performed by the python jupyter notebook. In particular, numpy
 (https://numpy.org/) was used for matrix operation and matplotlib (https://matplotlib.org/) was
 used for visualization.
-
+![subject15](subject15_all_image.png)
 ## How to run the script
    run `Two-dimensional PCA project.ipynb`
