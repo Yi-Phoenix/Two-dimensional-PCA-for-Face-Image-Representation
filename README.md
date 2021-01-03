@@ -15,4 +15,4 @@ and visualization work were all performed by the python jupyter notebook. In par
 used for visualization.
 
 ## How to run the script
-  
+   run `Two-dimensional PCA project.ipynb`
